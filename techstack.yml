@@ -1,0 +1,32 @@
+repo_name: IshmaeDukuly/db-capstone-project
+report_id: c46cc1ec7cc27157ddb1077a9c886f58
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-09T11:40:59+00:00'
+requested_by: IshmaeDukuly
+provider: github
+branch: main
+detected_tools_count: 2
+tools:
+- name: SQL
+  description: It is a domain-specific language used in programming
+  website_url: https://en.wikipedia.org/wiki/SQL
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/IshmaeDukuly/db-capstone-project/blob/main/LittleLemonDB.sql
+  detection_source: LittleLemonDB.sql
+  last_updated_by: IshmaeDukuly
+  last_updated_on: 2023-12-20 12:49:10.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/IshmaeDukuly/db-capstone-project
+  detection_source: Repo Metadata
